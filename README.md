@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web development And Android Development**
 
-- 💬 Ask me about **React ,DSA , algo**
+- 💬 Ask me about **React ,DSA
 
 - 📫 How to reach me [Linkedin] **https://www.linkedin.com/in/anish-kumar-9b375b190/**
 
